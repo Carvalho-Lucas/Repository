@@ -11,8 +11,8 @@ header .container {
 
 #profile img {
   border-radius: 50%;
-  width: 150px;
-  height: 150px; /* 1. Defina a altura exata */
+  width: 176px;
+  height: 176px; /* 1. Defina a altura exata */
   object-fit: cover; /* 2. Evita a distorção da imagem */
 }
 
